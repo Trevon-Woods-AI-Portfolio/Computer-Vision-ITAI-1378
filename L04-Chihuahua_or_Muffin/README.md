@@ -1,7 +1,5 @@
 # Chihuahua Or Muffin - CNN - Lab 04 🤖
 
-## README.md 📄
-
 ### Problem Statement 🧠
 This project aims to build a neural network classifier to distinguish between images of muffins and chihuahuas. 🧁🐶
 
