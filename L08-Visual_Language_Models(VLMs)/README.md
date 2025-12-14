@@ -1,4 +1,4 @@
-# 🌟 Visual Language Models (VLMs) - Lab 08
+# Visual Language Models (VLMs) - Lab 08 🌟
 
 --- 
 
