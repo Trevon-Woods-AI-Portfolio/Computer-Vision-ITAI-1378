@@ -1,4 +1,4 @@
-# 😊 Facial Detection & Recognition — Computer Vision Lab
+# 😊 Facial Detection & Recognition Lab Essay
 
 ## 📌 Project Overview
 This project explores **Facial Detection and Facial Recognition** as a biometric system using principles of **computer vision** and **deep learning**. The goal is to understand how facial recognition systems work, their real-world applications, and the ethical challenges surrounding their use.
